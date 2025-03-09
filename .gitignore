@@ -1,2 +1,2 @@
-venv/
+venv/*
 some_calculations.py
